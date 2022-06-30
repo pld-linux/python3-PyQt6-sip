@@ -3,6 +3,7 @@ Summary:	The sip module support for PyQt5
 Name:		python3-%{module}
 Version:	12.11.0
 Release:	0.1
+Epoch:		2
 License:	GPL v3
 Group:		Libraries/Python
 #Source0Download: https://pypi.org/simple/MODULE/
