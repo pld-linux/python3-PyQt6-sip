@@ -10,6 +10,7 @@ Source0:	https://files.pythonhosted.org/packages/source/P/PyQt6_sip/PyQt6_sip-%{
 # Source0-md5:	12ea4bee7856ac036b96981cb063283b
 URL:		https://www.riverbankcomputing.com/software/sip/
 BuildRequires:	python3-devel >= 1:3.2
+BuildRequires:	rpm-build >= 4.6
 BuildRequires:	rpm-pythonprov
 BuildRequires:	rpmbuild(macros) >= 1.714
 Requires:	python3-modules >= 1:3.2
