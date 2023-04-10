@@ -1,13 +1,13 @@
 %define		module	PyQt6-sip
 Summary:	The sip module support for PyQt6
 Name:		python3-%{module}
-Version:	13.4.1
+Version:	13.5.0
 Release:	1
 License:	GPL v3
 Group:		Libraries/Python
 #Source0Download: https://pypi.org/simple/MODULE/
 Source0:	https://files.pythonhosted.org/packages/source/P/PyQt6_sip/PyQt6_sip-%{version}.tar.gz
-# Source0-md5:	12ea4bee7856ac036b96981cb063283b
+# Source0-md5:	6eb570566b2f787d098f620deb4463c4
 URL:		https://www.riverbankcomputing.com/software/sip/
 BuildRequires:	python3-devel >= 1:3.2
 BuildRequires:	rpm-build >= 4.6
